@@ -1,0 +1,10 @@
+Face Recognition using PCA and LDA algorithms:
+
+PCA and LDA algorithm are implemented in MATLAB.
+I've tried to make it as modular and as easy to learn from as possible.
+
+Requirements:
+    * MATLAB
+
+TODO:
+    * Have to make it real time.
